@@ -241,11 +241,6 @@ header {
     margin-bottom: 60px;
 }
 
-.services__title-box {
-    position: relative;
-    padding-left: 140px;
-}
-
 .services__title {
     color: #2d4150;
     font-size: 40px;
